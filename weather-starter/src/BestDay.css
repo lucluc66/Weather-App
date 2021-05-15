@@ -1,0 +1,45 @@
+.row {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row;
+}
+
+div {
+    text-align: center;
+    margin-right: 0.5rem;
+}
+
+.wbtn {
+    background-color: #0dfd49;
+    width: 100px;
+    font-size: 30px;
+    color: white;
+    margin-right: 0.5rem;
+}
+.cbtn{
+    background-color: #0d6efd;
+    width: 100px;
+    font-size: 30px;
+    color: white;
+    margin-right: 0.5rem;
+}
+
+.hbtn {
+    background-color: #fd1d0d;
+    width: 100px;
+    font-size: 30px;
+    color: white;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row;
+}
+
